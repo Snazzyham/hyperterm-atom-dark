@@ -1,31 +1,31 @@
 
-const backgroundColor = '#282c34'
+const backgroundColor = '#292b37'
 const foregroundColor = '#abb2bf'
 const cursorColor = foregroundColor
 const borderColor = backgroundColor
 
 const colors = [
   backgroundColor,
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#c678dd', // pink
-  '#56b6c2', // cyan
+  '#dc3b3b', // red
+  '#94c66e', // green
+  '#d28e5d', // yellow
+  '#8884c5', // blue
+  '#b73999', // pink
+  '#00aba4', // cyan
   '#d0d0d0', // light gray
   '#808080', // medium gray
-  '#e06c75', // red
-  '#98c379', // green
-  '#d19a66', // yellow
-  '#56b6c2', // blue
-  '#c678dd', // pink
-  '#56b6c2', // cyan
+  '#dc3b3b', // red
+  '#94c66e', // green
+  '#d28e5d', // yellow
+  '#8884c5', // blue
+  '#b73999', // pink
+  '#00aba4', // cyan
   '#ffffff', // white
   foregroundColor
 ]
 
 exports.decorateConfig = config => {
-  console.log('Hi mom!')
+  console.log('Meow!')
 
   return Object.assign({}, config, {
     foregroundColor,
