@@ -2,8 +2,8 @@
 
 [HyperTerm](https://hyperterm.org) theme based on [my WWDC theme for Vim, Sublime and Atom](https://github.com/snazzyham/wwdc-2016). Forked from @mdo's fork of @jxnblk's [HyperTerminator](https://github.com/jxnblk/hyperterminator).
 
-![Screenshot at start](https://cloud.githubusercontent.com/assets/98681/16899205/f644411e-4baf-11e6-851a-930070779867.png)
-![Screenshot with tabs](https://cloud.githubusercontent.com/assets/98681/16899206/f644c080-4baf-11e6-890d-fd5c628c7991.png)
+
+![](http://puu.sh/q6Kqr/13d7b7a2a8.png)
 
 ### Install
 
